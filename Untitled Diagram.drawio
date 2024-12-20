@@ -162,7 +162,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-51" value="Process 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#FAF5FF;strokeColor=#D2CBD9;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-51" value="Process 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f7f0ff;strokeColor=#D2CBD9;" parent="1" vertex="1">
           <mxGeometry x="960" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-52" value="&lt;span&gt;Sub-node 3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
