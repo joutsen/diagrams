@@ -1179,6 +1179,18 @@
             <mxPoint x="2766" y="1972" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-70" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Генеративные&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;и дискриминативные&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;модели&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D2CBD9;fillStyle=auto;fillColor=#f7f0ff;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1926.75" y="1826.5" width="161.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-71" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.796;exitY=0.902;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="GqTlXlMeytFH90FR9I8b-98" target="lsxUPZ-5RXZpL6xR7GCQ-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="1556" as="sourcePoint" />
+            <mxPoint x="2152" y="1647" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2160" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
