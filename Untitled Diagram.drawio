@@ -1354,7 +1354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-117" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Stable Diffusion&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillStyle=auto;strokeColor=#BF92D4;verticalAlign=middle;fontColor=default;fillColor=#F3EBF7;autosize=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="2196.25" width="150" height="66.5" as="geometry" />
+          <mxGeometry x="1760" y="2206.63" width="150" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-118" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-37" target="lsxUPZ-5RXZpL6xR7GCQ-117" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1568,6 +1568,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-410" y="1940" as="sourcePoint" />
             <mxPoint x="-282" y="1791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HH8Qyzm25gVhgutufYbr-36" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;DALL-E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillStyle=auto;strokeColor=#BF92D4;verticalAlign=middle;fontColor=default;fillColor=#F3EBF7;autosize=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1601.5" y="2340" width="109" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="HH8Qyzm25gVhgutufYbr-37" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-95" target="HH8Qyzm25gVhgutufYbr-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1656" y="2280" as="sourcePoint" />
+            <mxPoint x="1666" y="2171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
