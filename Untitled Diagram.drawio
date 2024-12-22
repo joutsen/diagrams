@@ -1419,6 +1419,15 @@
             <mxPoint x="1011" y="1633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-125" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Луонг&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Васвани&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#F3EBF7;strokeColor=#BF92D4;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="753" y="1994.25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-126" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.043;entryY=0.274;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-125" target="lsxUPZ-5RXZpL6xR7GCQ-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1115" y="1540" as="sourcePoint" />
+            <mxPoint x="1011" y="1633" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
