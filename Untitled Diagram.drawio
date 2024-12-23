@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2069" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2814" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2515,7 +2515,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="91yAgsepNv5IRO09EOlR-28" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гаусс&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#F6F3FA;strokeColor=#D2CBD9;resizable=1;autosize=0;fillStyle=auto;verticalAlign=middle;fontColor=default;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="3055" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="3027.5" y="629" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
