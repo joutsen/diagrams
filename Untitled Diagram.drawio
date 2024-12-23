@@ -1564,7 +1564,7 @@
         <mxCell id="HH8Qyzm25gVhgutufYbr-38" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ChatGPT&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Gemini&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillStyle=auto;strokeColor=#A4CC8D;verticalAlign=middle;fontColor=default;fillColor=#EDF5D5;autosize=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="480.25" y="2161" width="123.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HH8Qyzm25gVhgutufYbr-39" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-96" target="HH8Qyzm25gVhgutufYbr-38" edge="1">
+        <mxCell id="HH8Qyzm25gVhgutufYbr-39" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-96" target="HH8Qyzm25gVhgutufYbr-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="543" y="2100" as="sourcePoint" />
             <mxPoint x="552" y="1986" as="targetPoint" />
