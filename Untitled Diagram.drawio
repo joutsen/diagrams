@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="6560" dy="3038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4220" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,10 +1021,10 @@
           <mxGeometry x="3345" y="987" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Принцип&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;наименьшего&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;действия&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3160" y="983" width="140" height="135" as="geometry" />
+          <mxGeometry x="3171" y="986" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гельмгольц&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#EDF5D5;strokeColor=#A4CC8D;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3565" y="1039.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="3360" y="827.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-44" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-18" target="lsxUPZ-5RXZpL6xR7GCQ-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1054,12 +1054,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гамильтон&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#EDF5D5;strokeColor=#A4CC8D;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2973" y="1034" width="100" height="30" as="geometry" />
+          <mxGeometry x="3191" y="827.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-49" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-48" target="lsxUPZ-5RXZpL6xR7GCQ-42" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3155" y="980" as="sourcePoint" />
-            <mxPoint x="3421" y="1008" as="targetPoint" />
+            <mxPoint x="3166" y="983" as="sourcePoint" />
+            <mxPoint x="3432" y="1011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lsxUPZ-5RXZpL6xR7GCQ-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Фристон&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#EDF5D5;strokeColor=#A4CC8D;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
@@ -2071,7 +2071,7 @@
         <mxCell id="4cnz_5EQ4KDH5PCBS3kL-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Механизмы&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;консолидации&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;памяти&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2488" y="2318" width="140" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-72" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="HH8Qyzm25gVhgutufYbr-60" target="4cnz_5EQ4KDH5PCBS3kL-71">
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-72" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=classicThin;startFill=1;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="HH8Qyzm25gVhgutufYbr-60" target="4cnz_5EQ4KDH5PCBS3kL-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2382" y="1701" as="sourcePoint" />
             <mxPoint x="2382" y="1770" as="targetPoint" />
@@ -2110,7 +2110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-77" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=classicThin;startFill=1;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="4cnz_5EQ4KDH5PCBS3kL-75" target="4cnz_5EQ4KDH5PCBS3kL-71">
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-77" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=classicThin;startFill=1;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="4cnz_5EQ4KDH5PCBS3kL-75" target="4cnz_5EQ4KDH5PCBS3kL-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="353" y="1911" as="sourcePoint" />
             <mxPoint x="353" y="2360" as="targetPoint" />
@@ -2166,6 +2166,33 @@
             <Array as="points">
               <mxPoint x="790" y="2250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-87" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Модели&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;внимания&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;и восприятия&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#8BCCA8;fillStyle=auto;fillColor=#E9F0EE;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="2274.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-88" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Модели&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;логического&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;мышления&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#8BCCA8;fillStyle=auto;fillColor=#E9F0EE;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2274.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-89" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Модели&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;речи&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#8BCCA8;fillStyle=auto;fillColor=#E9F0EE;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="2274.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-90" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Модели&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;оптимального&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;поведения&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#8BCCA8;fillStyle=auto;fillColor=#E9F0EE;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="2274.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-91" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Аналоговый&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;компьютер&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="986" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-92" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="GqTlXlMeytFH90FR9I8b-50" target="4cnz_5EQ4KDH5PCBS3kL-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2264" y="973" as="sourcePoint" />
+            <mxPoint x="4193" y="973" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cnz_5EQ4KDH5PCBS3kL-93" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-42" target="4cnz_5EQ4KDH5PCBS3kL-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2274" y="983" as="sourcePoint" />
+            <mxPoint x="4203" y="983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
