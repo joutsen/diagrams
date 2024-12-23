@@ -469,7 +469,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GqTlXlMeytFH90FR9I8b-93" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гильберт&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#FCF1D9;strokeColor=#D6C492;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-13" y="1075" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="1070" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GqTlXlMeytFH90FR9I8b-94" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.743;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GqTlXlMeytFH90FR9I8b-93" target="GqTlXlMeytFH90FR9I8b-78" edge="1">
           <mxGeometry relative="1" as="geometry">
