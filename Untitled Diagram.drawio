@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2965" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3511" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2767,6 +2767,15 @@
         </mxCell>
         <mxCell id="ifIcR109uf-0bVK3GXsy-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nescire.me/images/nm_logo.png;" vertex="1" parent="ifIcR109uf-0bVK3GXsy-51">
           <mxGeometry x="143" y="32.62" width="152.52" height="22.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ifIcR109uf-0bVK3GXsy-52" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="GqTlXlMeytFH90FR9I8b-96" target="4cnz_5EQ4KDH5PCBS3kL-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="2252" as="sourcePoint" />
+            <mxPoint x="314" y="2371" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="2420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
