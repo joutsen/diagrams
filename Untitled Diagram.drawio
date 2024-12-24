@@ -2884,7 +2884,7 @@
         <mxCell id="ifIcR109uf-0bVK3GXsy-71" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Пирс&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#EDF5D5;strokeColor=#A4CC8D;resizable=1;autosize=1;fillStyle=auto;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="456" y="948" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ifIcR109uf-0bVK3GXsy-72" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="ifIcR109uf-0bVK3GXsy-71" target="ifIcR109uf-0bVK3GXsy-68">
+        <mxCell id="ifIcR109uf-0bVK3GXsy-72" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ifIcR109uf-0bVK3GXsy-71" target="ifIcR109uf-0bVK3GXsy-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314" y="1123" as="sourcePoint" />
             <mxPoint x="314" y="1196" as="targetPoint" />
