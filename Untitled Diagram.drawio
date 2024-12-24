@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3511" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7224" dy="4565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2754,7 +2754,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ifIcR109uf-0bVK3GXsy-47" value="&lt;font color=&quot;#4d4d4d&quot; face=&quot;Verdana&quot; style=&quot;font-size: 59px;&quot;&gt;Сокращённая таксономия терминов&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot; face=&quot;Verdana&quot; style=&quot;font-size: 59px;&quot;&gt;искусственного интеллекта&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot; face=&quot;Verdana&quot; style=&quot;font-size: 59px;&quot;&gt;в историческом изложении&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-992" y="117" width="1040" height="276" as="geometry" />
+          <mxGeometry x="-1050" y="117" width="1098" height="276" as="geometry" />
         </mxCell>
         <mxCell id="ifIcR109uf-0bVK3GXsy-50" value="" style="group;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3899" y="2630" width="481" height="88" as="geometry" />
