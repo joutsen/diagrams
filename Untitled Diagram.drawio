@@ -1557,7 +1557,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HH8Qyzm25gVhgutufYbr-34" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Wolfram&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Alpha&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillStyle=auto;strokeColor=#B87979;verticalAlign=middle;fontColor=default;fillColor=#F8EBE9;" parent="1" vertex="1">
-          <mxGeometry x="-715" y="2059.25" width="112" height="59.75" as="geometry" />
+          <mxGeometry x="-715" y="2072.5" width="112" height="59.75" as="geometry" />
         </mxCell>
         <mxCell id="HH8Qyzm25gVhgutufYbr-35" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" parent="1" source="HH8Qyzm25gVhgutufYbr-20" target="HH8Qyzm25gVhgutufYbr-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2551,6 +2551,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-569" y="1764" as="sourcePoint" />
             <mxPoint x="-507" y="1764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="91yAgsepNv5IRO09EOlR-38" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Индукция&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;программ&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#B87979;fillStyle=auto;fillColor=#F8EBE9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-537" y="2067.5099999999998" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="91yAgsepNv5IRO09EOlR-40" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="91yAgsepNv5IRO09EOlR-35" target="91yAgsepNv5IRO09EOlR-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-649" y="2011" as="sourcePoint" />
+            <mxPoint x="-649" y="2069" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
