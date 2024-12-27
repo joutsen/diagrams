@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="5294" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5014" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2422,7 +2422,7 @@
           <mxGeometry x="2360" y="525" width="158" height="135" as="geometry" />
         </mxCell>
         <mxCell id="91yAgsepNv5IRO09EOlR-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Хайтин&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Соломонофф&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#F1EEF5;strokeColor=#AFA9B5;resizable=1;autosize=0;fillStyle=auto;verticalAlign=middle;fontColor=default;arcSize=26;" parent="1" vertex="1">
-          <mxGeometry x="2375.75" y="427.75" width="126.5" height="60.5" as="geometry" />
+          <mxGeometry x="2375.75" y="432" width="126.5" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="91yAgsepNv5IRO09EOlR-18" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;" parent="1" source="91yAgsepNv5IRO09EOlR-16" target="91yAgsepNv5IRO09EOlR-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3074,7 +3074,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qp5aURDikCJVGV6UmG6m-18" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-112" target="2c924340bb9dbf6c-23" edge="1">
+        <mxCell id="qp5aURDikCJVGV6UmG6m-18" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.015;exitY=0.679;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lsxUPZ-5RXZpL6xR7GCQ-112" target="2c924340bb9dbf6c-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1001" y="1683" as="sourcePoint" />
             <mxPoint x="132" y="1976" as="targetPoint" />
@@ -3094,7 +3094,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qp5aURDikCJVGV6UmG6m-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Муавр&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#F1EEF5;strokeColor=#AFA9B5;resizable=1;autosize=0;fillStyle=auto;verticalAlign=middle;fontColor=default;arcSize=26;" parent="1" vertex="1">
-          <mxGeometry x="3158" y="690" width="70" height="30" as="geometry" />
+          <mxGeometry x="3194" y="690" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qp5aURDikCJVGV6UmG6m-22" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;" parent="1" source="HH8Qyzm25gVhgutufYbr-52" target="qp5aURDikCJVGV6UmG6m-4" edge="1">
           <mxGeometry relative="1" as="geometry">
