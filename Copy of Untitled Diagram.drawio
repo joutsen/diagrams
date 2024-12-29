@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2768" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2965" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1934,6 +1934,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="756" y="932" as="sourcePoint" />
             <mxPoint x="1166" y="984" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pS5so4gMw3Waj6iBlqiA-5" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;С вычитанием&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#BF92D4;fillStyle=auto;fillColor=#F3EBF7;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1370.25" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="pS5so4gMw3Waj6iBlqiA-6" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="tcGgKA0R4twolkhL7T3E-16" target="pS5so4gMw3Waj6iBlqiA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="301" y="952" as="sourcePoint" />
+            <mxPoint x="204" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pS5so4gMw3Waj6iBlqiA-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;С усилением, Numenta&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#BF92D4;fillStyle=auto;fillColor=#F3EBF7;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1416" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="pS5so4gMw3Waj6iBlqiA-8" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="tcGgKA0R4twolkhL7T3E-16" target="pS5so4gMw3Waj6iBlqiA-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1360" as="sourcePoint" />
+            <mxPoint x="242" y="1391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
