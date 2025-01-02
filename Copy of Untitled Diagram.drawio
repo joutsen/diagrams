@@ -1208,6 +1208,15 @@
         <mxCell id="ITfull_FvkjiS6q24lnB-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Рассмотрение&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;семантических пространств кортикальных колонок, разделённых&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;на подпространства сущностей, качеств и состояний, в виде&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;сети RDF, составленной из&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;записей в ассоциативной&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;памяти типа SVO&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="5560" y="-321.75" width="290" height="231" as="geometry" />
         </mxCell>
+        <mxCell id="ITfull_FvkjiS6q24lnB-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Механизм двйного внимания SVO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#BF92D4;fillStyle=auto;fillColor=#F3EBF7;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="5390" y="-653.5" width="128.68" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ITfull_FvkjiS6q24lnB-4" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="3zGXLs3nFM84QyBfbS7Q-61" target="ITfull_FvkjiS6q24lnB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5356" y="-451" as="sourcePoint" />
+            <mxPoint x="5412" y="-436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
