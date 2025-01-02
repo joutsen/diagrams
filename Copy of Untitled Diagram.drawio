@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2965" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3511" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1147,6 +1147,15 @@
         </mxCell>
         <mxCell id="Q5QL2jfJ1GYNZS24GLLf-22" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Авторегрессивные&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;рекуррентные сети&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;с байесовской регуляризацией&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;как база для реализации механизмов вывода в ассоциативной памяти&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="6197.81" y="-70.75" width="252.19" height="170.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5QL2jfJ1GYNZS24GLLf-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Применения аналоговых&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;механизмов логического вывода, основанных на принципе наименьшего действия, в волновых когановских ансаблях,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;обладающих&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;алгебраической структурой&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="-90" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5QL2jfJ1GYNZS24GLLf-24" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Аналоговая нейроморфная&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;реализация лямбда-исчисления&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Чёрча поверх волнового ансамбля, натренированного по алгебраическому критерию&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;в режиме ассоциативной&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;памяти&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7108.25" y="-321.37" width="280" height="216.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5QL2jfJ1GYNZS24GLLf-25" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Рассмотрение семантико-грамматической сети&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;как модели ассоциативной контентно-адресуемой памяти&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7123.25" y="-547" width="250" height="206" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
