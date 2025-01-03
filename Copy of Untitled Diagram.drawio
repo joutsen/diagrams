@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="8934" dy="5219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="12574" dy="7244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
             <mxPoint x="6481.84" y="2021.25" as="sourcePoint" />
             <mxPoint x="6482.84" y="2302.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7567.84" y="326.25" />
+              <mxPoint x="7270" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -531,7 +531,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhr9VRiKwX6RT9ORktvZ-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Программа исследований когнитивных архитектур универсального назначения&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;на основе нейроморфных&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;самоорганизующихся семантических карт с алгебраической структурой&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFCCDB;" parent="1" vertex="1">
-          <mxGeometry x="3001.25" y="-930" width="433.75" height="159.25" as="geometry" />
+          <mxGeometry x="3340.62" y="-920" width="433.75" height="159.25" as="geometry" />
         </mxCell>
         <mxCell id="xhr9VRiKwX6RT9ORktvZ-2" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=classicThin;startFill=1;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" parent="1" source="xhr9VRiKwX6RT9ORktvZ-4" target="xhr9VRiKwX6RT9ORktvZ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -618,6 +618,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7915.35" y="511" as="sourcePoint" />
             <mxPoint x="7516.35" y="676" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7960" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xhr9VRiKwX6RT9ORktvZ-23" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" parent="1" source="xhr9VRiKwX6RT9ORktvZ-12" target="xhr9VRiKwX6RT9ORktvZ-17" edge="1">
