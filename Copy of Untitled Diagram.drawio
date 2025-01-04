@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="4837" dy="3778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2965" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,17 +433,8 @@
             <mxPoint x="3512.75" y="1590.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tcGgKA0R4twolkhL7T3E-51" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Логическое мышление&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="843" y="782.76" width="140" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="tcGgKA0R4twolkhL7T3E-52" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Речь&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="853" y="943.6299999999999" width="140" height="135" as="geometry" />
-        </mxCell>
         <mxCell id="tcGgKA0R4twolkhL7T3E-53" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Поиск в памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="723" y="1057.1600000000003" width="140" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="tcGgKA0R4twolkhL7T3E-54" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Оптимальная стратегия поведения&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="553" y="1092.38" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="tcGgKA0R4twolkhL7T3E-58" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Компонентный анализ с вариационной оптимизацией&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="673" y="647.7599999999999" width="160" height="135" as="geometry" />
@@ -1144,7 +1135,7 @@
         <mxCell id="TTsUkmkOvjEqiHtar9jS-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Дилемма стабильность-пластичность&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-133" y="27" width="140" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="TTsUkmkOvjEqiHtar9jS-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Адаптивный резонанс Гроссберга как критерий формирования ассоциативной памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="TTsUkmkOvjEqiHtar9jS-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Адаптивный резонанс Гроссберга как способ формирования ассоциативной памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-167.75" y="544.5" width="209.5" height="135" as="geometry" />
         </mxCell>
         <mxCell id="TTsUkmkOvjEqiHtar9jS-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гиппокампальный&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;повтор и консолидация&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
@@ -1153,7 +1144,7 @@
         <mxCell id="TTsUkmkOvjEqiHtar9jS-4" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Нормальное распределение нейронов по пластичности&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-147" y="200" width="168" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="TTsUkmkOvjEqiHtar9jS-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Реконструирующие автоэнкодеры&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="TTsUkmkOvjEqiHtar9jS-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Реконструирующий автоэнкодер как механизм памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-153" y="717.75" width="180" height="135" as="geometry" />
         </mxCell>
         <mxCell id="TTsUkmkOvjEqiHtar9jS-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Сети&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Хопфилда и другие модели гиппокампа&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
@@ -1252,7 +1243,7 @@
         <mxCell id="cQqlhEFwXTGoN6FcaNYD-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Самоорганизующиеся семантические карты&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="67" y="878" width="184" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="cQqlhEFwXTGoN6FcaNYD-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Алгебраическая структура памяти SVO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="cQqlhEFwXTGoN6FcaNYD-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Алгебраическая структура памяти SVO, RDF&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-138" y="1233.25" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cQqlhEFwXTGoN6FcaNYD-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Алгебраические критерии обучения&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
