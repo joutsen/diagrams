@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3511" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2965" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1440,7 +1440,7 @@
             <mxRectangle width="272" height="344" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Автоматическое формирование трёхмерных векторных представлений подвижных объектов на основе контрастного обучения и прогнозирующего кодирования. Использование стереоскопического зрения и эффекта параллакса для анализа глубины образа&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-33" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Автоматическое формирование векторных представлений подвижных трёхмерных объектов на основе контрастного обучения и прогнозирующего кодирования. Использование стереоскопического зрения и эффекта параллакса для анализа глубины образа&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-33" vertex="1">
           <mxGeometry x="880" width="280" height="344" as="geometry">
             <mxRectangle width="280" height="344" as="alternateBounds" />
           </mxGeometry>
@@ -1546,7 +1546,7 @@
             <mxRectangle width="272" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение карты вращений предмета. Обучающий критерий соседства образов при вращении.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-55" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение карты вращений предмета либо трёхмерной карты местности. Обучающий критерий&amp;nbsp; - соседство образов при движении.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-55" vertex="1">
           <mxGeometry x="880" width="280" height="320" as="geometry">
             <mxRectangle width="280" height="320" as="alternateBounds" />
           </mxGeometry>
@@ -1599,7 +1599,7 @@
             <mxRectangle width="272" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-70" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Использование трёхмерной карты для мгновенного поиска маршрута или последовательности вращений для достижения целевого положения.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
           <mxGeometry x="880" width="280" height="390" as="geometry">
             <mxRectangle width="280" height="390" as="alternateBounds" />
           </mxGeometry>
@@ -1652,7 +1652,7 @@
             <mxRectangle width="272" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-81" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Пошаговое изучение карты для поиска оптимального маршрута. Например, алгоритм Дейкстры.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
           <mxGeometry x="880" width="280" height="290" as="geometry">
             <mxRectangle width="280" height="290" as="alternateBounds" />
           </mxGeometry>
@@ -1705,7 +1705,7 @@
             <mxRectangle width="272" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-92" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-88" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Обобщённый трёхмерный анализ и рендеринг типовых предметов с нулевым выстрелом на основе глобальной библиотеки образов.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-88" vertex="1">
           <mxGeometry x="880" width="280" height="330" as="geometry">
             <mxRectangle width="280" height="330" as="alternateBounds" />
           </mxGeometry>
