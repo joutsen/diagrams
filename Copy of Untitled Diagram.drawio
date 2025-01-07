@@ -1662,7 +1662,7 @@
             <mxRectangle width="186" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-83" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Пошаговоый вывод&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; font-size: 17px;&quot;&gt;с применением логики динамического программирования вроде Prolog&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-83" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Пошаговоый логический вывод&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; font-size: 17px;&quot;&gt;с применением логики динамического программирования вроде Prolog&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
           <mxGeometry x="1346" width="252" height="290" as="geometry">
             <mxRectangle width="252" height="290" as="alternateBounds" />
           </mxGeometry>
