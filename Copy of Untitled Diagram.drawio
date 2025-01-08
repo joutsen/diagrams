@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3139" dy="2386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3838" dy="2384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1314,7 +1314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;spacing=15;" parent="1" vertex="1">
-          <mxGeometry x="-834" y="-440" width="2730" height="2370.16" as="geometry" />
+          <mxGeometry x="-834" y="-440" width="2730" height="2328.16" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;fontStyle=0" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
           <mxGeometry width="2730" height="180" as="geometry" />
@@ -1324,7 +1324,7 @@
             <mxRectangle width="270" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Распознавание образов на примерах с применением последовательности изобразительных фильтров&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" vertex="1" parent="O_g7NUzrfDLo47jULKJn-11">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Распознавание и генерация изображений с применением последовательности изобразительных фильтров, обучаемых на опорных образах без учителя&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-11" vertex="1">
           <mxGeometry x="270" width="260" height="180" as="geometry">
             <mxRectangle width="260" height="180" as="alternateBounds" />
           </mxGeometry>
@@ -1344,7 +1344,7 @@
             <mxRectangle width="270" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Построение логического обоснования на базе логических правил, логическое программирование&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-11" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Построение логического обоснования на базе логических правил, логическое программирование, дедуктивный логический вывод&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-11" vertex="1">
           <mxGeometry x="1320" width="280" height="180" as="geometry">
             <mxRectangle width="280" height="180" as="alternateBounds" />
           </mxGeometry>
@@ -1359,7 +1359,7 @@
             <mxRectangle width="290" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Мгновенное или&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;аналитическое принятие оптимальных решений в непредсказуемой&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;ситуации&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-11" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Мгновенное или&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;пошаговое принятие оптимальных решений в непредсказуемой&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;ситуации&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-11" vertex="1">
           <mxGeometry x="2190" width="280" height="180" as="geometry">
             <mxRectangle width="280" height="180" as="alternateBounds" />
           </mxGeometry>
@@ -1377,7 +1377,7 @@
             <mxRectangle width="270" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-10" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Физический носитель памяти опорных образов, фотографическая память&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-22">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-10" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Физический носитель памяти опорных образов, фотографическая память&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-22" vertex="1">
           <mxGeometry x="270" width="260" height="230" as="geometry">
             <mxRectangle width="260" height="230" as="alternateBounds" />
           </mxGeometry>
@@ -1417,7 +1417,7 @@
             <mxRectangle width="280" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-32" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Тренировка без&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;учителя по принципу активного обучения в виртуальной среде физического моделирования&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-22" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-32" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Тренировка моторики без&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;учителя по принципу активного обучения в виртуальной среде физического моделирования&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-22" vertex="1">
           <mxGeometry x="2470" width="260" height="230" as="geometry">
             <mxRectangle width="260" height="230" as="alternateBounds" />
           </mxGeometry>
@@ -1430,7 +1430,7 @@
             <mxRectangle width="270" height="343" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение векторного предствления образов за счёт адаптивного резонанса в процессе консолидации визуальной памяти.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Вариационный автоэнкодер для выделения естественных особенностей образов за счёт их обратной отрисовки&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-33">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение векторного предствления образов за счёт адаптивного резонанса в процессе консолидации визуальной памяти.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Вариационный автоэнкодер для выделения естественных особенностей образов за счёт их обратной отрисовки&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-33" vertex="1">
           <mxGeometry x="270" width="260" height="343" as="geometry">
             <mxRectangle width="260" height="343" as="alternateBounds" />
           </mxGeometry>
@@ -1476,67 +1476,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
-          <mxGeometry y="753" width="2730" height="289" as="geometry" />
+          <mxGeometry y="753" width="2730" height="247" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-45" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Диффузионный генеративный авторегрессивный процесс согласования мультивекторных представлений путём выстраивания&amp;nbsp; объяснения картины входа на базе изученных правил&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry width="270" height="289" as="geometry">
-            <mxRectangle width="270" height="289" as="alternateBounds" />
+          <mxGeometry width="270" height="247" as="geometry">
+            <mxRectangle width="270" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Диффузионная генеративная сеть синтеза изображений вроде Stable Diffusion&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-44">
-          <mxGeometry x="270" width="260" height="289" as="geometry">
-            <mxRectangle width="260" height="289" as="alternateBounds" />
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Диффузионная генеративная сеть синтеза изображений вроде Stable Diffusion&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
+          <mxGeometry x="270" width="260" height="247" as="geometry">
+            <mxRectangle width="260" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-47" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Автоматический иерархический авторегрессивный анализ часть-целое вроде GLOM&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="530" width="260" height="289" as="geometry">
-            <mxRectangle width="260" height="289" as="alternateBounds" />
+          <mxGeometry x="530" width="260" height="247" as="geometry">
+            <mxRectangle width="260" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-48" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Генеративная сеть, воспроизводящая движение предметов в трёхмерном пространстве&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="790" width="260" height="289" as="geometry">
-            <mxRectangle width="260" height="289" as="alternateBounds" />
+          <mxGeometry x="790" width="260" height="247" as="geometry">
+            <mxRectangle width="260" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="1050" width="270" height="289" as="geometry">
-            <mxRectangle width="270" height="289" as="alternateBounds" />
+          <mxGeometry x="1050" width="270" height="247" as="geometry">
+            <mxRectangle width="270" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="1320" width="280" height="289" as="geometry">
-            <mxRectangle width="280" height="289" as="alternateBounds" />
+          <mxGeometry x="1320" width="280" height="247" as="geometry">
+            <mxRectangle width="280" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="1600" width="300" height="289" as="geometry">
-            <mxRectangle width="300" height="289" as="alternateBounds" />
+          <mxGeometry x="1600" width="300" height="247" as="geometry">
+            <mxRectangle width="300" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="1900" width="290" height="289" as="geometry">
-            <mxRectangle width="290" height="289" as="alternateBounds" />
+          <mxGeometry x="1900" width="290" height="247" as="geometry">
+            <mxRectangle width="290" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="2190" width="280" height="289" as="geometry">
-            <mxRectangle width="280" height="289" as="alternateBounds" />
+          <mxGeometry x="2190" width="280" height="247" as="geometry">
+            <mxRectangle width="280" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
-          <mxGeometry x="2470" width="260" height="289" as="geometry">
-            <mxRectangle width="260" height="289" as="alternateBounds" />
+        <mxCell id="O_g7NUzrfDLo47jULKJn-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Генеративная сеть для синтеза моторных последовательностей.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; font-size: 17px;&quot;&gt;Синтез&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; font-size: 17px;&quot;&gt;ловких&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; font-size: 17px;&quot;&gt;моторных последовательностей при помощи резервуарных вычислений&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-44" vertex="1">
+          <mxGeometry x="2470" width="260" height="247" as="geometry">
+            <mxRectangle width="260" height="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
-          <mxGeometry y="1042" width="2730" height="319" as="geometry" />
+          <mxGeometry y="1000" width="2730" height="319" as="geometry" />
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-56" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Построение&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;нейроморфной алгебраической&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;карты&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;с использованием&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;нейронов решётки.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Категории&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-55" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-56" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Построение&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;нейроморфной алгебраической&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;карты&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;с использованием&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;нейронов решётки.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;(Категории)&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-55" vertex="1">
           <mxGeometry width="270" height="319" as="geometry">
             <mxRectangle width="270" height="319" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение карты функциональных преобразований для многоуровневого реактивного синтеза сложного изображения с наложением локальных фильтров. Критерий близости - возможность получить один образ из другого путём простейшего преобразования. Алгебраическая топология.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-55">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Построение карты преобразований для синтеза изображения с наложением локальных изобразительных фильтров. Критерий близости - возможность получить один образ из другого путём простейшего преобразования. Алгебраическая топология.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-55" vertex="1">
           <mxGeometry x="270" width="260" height="319" as="geometry">
             <mxRectangle width="260" height="319" as="alternateBounds" />
           </mxGeometry>
@@ -1582,14 +1582,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
-          <mxGeometry y="1361" width="2730" height="390" as="geometry" />
+          <mxGeometry y="1319" width="2730" height="390" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-67" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Мгновенный&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 17px;&quot;&gt;аналоговый вывод с использованием алгебраической карты&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
           <mxGeometry width="270" height="390" as="geometry">
             <mxRectangle width="270" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Использование изученной карты преобразований для мгновенного поиска суперпозиции функций, благодаря которой можно получить желаемый графический переход между двумя данными образами&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-66">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Использование изученной карты преобразований для мгновенного поиска суперпозиции функций, благодаря которой можно получить желаемый графический переход между двумя данными образами&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
           <mxGeometry x="270" width="260" height="390" as="geometry">
             <mxRectangle width="260" height="390" as="alternateBounds" />
           </mxGeometry>
@@ -1629,20 +1629,20 @@
             <mxRectangle width="280" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_g7NUzrfDLo47jULKJn-76" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Синтез&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ловких&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;моторных последовательностей аналоговым способом по принципу наименьшего действия.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;Использование кинематической карты&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;тела для мгновенного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;синтеза&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;ловких моторных откликов&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;в непредсказуемой&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;ситуации.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;Синтез&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;ловких&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;моторных последовательностей при помощи резервуарных вычислений&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
+        <mxCell id="O_g7NUzrfDLo47jULKJn-76" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Синтез&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ловких&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;моторных последовательностей аналоговым способом по принципу наименьшего действия.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;Использование кинематической карты&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;тела для мгновенного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;синтеза&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;ловких моторных откликов&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;в непредсказуемой&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 17px;&quot;&gt;ситуации.&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-66" vertex="1">
           <mxGeometry x="2470" width="260" height="390" as="geometry">
             <mxRectangle width="260" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-77" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
-          <mxGeometry y="1751" width="2730" height="290" as="geometry" />
+          <mxGeometry y="1709" width="2730" height="290" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-78" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Динамическое программирование, пошаговое рассуждение поверх алгебраической карты&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
           <mxGeometry width="270" height="290" as="geometry">
             <mxRectangle width="270" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-77">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Пошаговое наложение локальных изобразительных фильтров для добавления деталей в образ наподобие художника. Применение динамического программирования для поиска оптимальной последовательности пошагового рендеринга.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-77" vertex="1">
           <mxGeometry x="270" width="260" height="290" as="geometry">
             <mxRectangle width="260" height="290" as="alternateBounds" />
           </mxGeometry>
@@ -1688,14 +1688,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-10" vertex="1">
-          <mxGeometry y="2041" width="2730" height="329" as="geometry" />
+          <mxGeometry y="1999" width="2730" height="329" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-89" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Обучение с нулевым выстрелом, генерализация&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;fontStyle=1" parent="O_g7NUzrfDLo47jULKJn-88" vertex="1">
           <mxGeometry width="270" height="329" as="geometry">
             <mxRectangle width="270" height="329" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" vertex="1" parent="O_g7NUzrfDLo47jULKJn-88">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-16" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Рендеринг изображения по текстовому описанию или шаблонному рисунку с нулевым выстрелом. Глобальная генерализованная модель рендеринга наподобие DALL-E&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;spacing=15;" parent="O_g7NUzrfDLo47jULKJn-88" vertex="1">
           <mxGeometry x="270" width="260" height="329" as="geometry">
             <mxRectangle width="260" height="329" as="alternateBounds" />
           </mxGeometry>
@@ -1743,7 +1743,7 @@
         <mxCell id="O_g7NUzrfDLo47jULKJn-132" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Типовые&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;задачи&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;" parent="1" vertex="1">
           <mxGeometry x="486" y="-670" width="172" height="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="jDbP9krdzCkpuw5ZQsWU-18" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;entryX=0.641;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O_g7NUzrfDLo47jULKJn-132" target="O_g7NUzrfDLo47jULKJn-11">
+        <mxCell id="jDbP9krdzCkpuw5ZQsWU-18" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;entryX=0.641;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O_g7NUzrfDLo47jULKJn-132" target="O_g7NUzrfDLo47jULKJn-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2839" y="-590" as="sourcePoint" />
             <mxPoint x="2345" y="-390" as="targetPoint" />
