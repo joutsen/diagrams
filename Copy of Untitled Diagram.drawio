@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3511" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5367" dy="4212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1043,28 +1043,28 @@
           <mxGeometry x="1985" y="527.2" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Авторегрессивные диффузионные генеративные сети&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;как основа нейронной памяти и логики&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;" parent="1" vertex="1">
-          <mxGeometry x="5579.07" y="716.69" width="205" height="160" as="geometry" />
+          <mxGeometry x="5600.07" y="716.69" width="205" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Объяснение сенсорной картины&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;как авторегрессивный процесс согласования мультивекторных представлений&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=17;" parent="1" vertex="1">
-          <mxGeometry x="5278.61" y="958.9999999999999" width="224.39" height="210" as="geometry" />
+          <mxGeometry x="5299.61" y="958.9999999999999" width="224.39" height="210" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Индукция логических&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;закономерностей в форме объектов и морфизмов, реализованных при помощи мультивекторных представлений&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5868" y="1243.06" width="240" height="220" as="geometry" />
+          <mxGeometry x="5889" y="1243.06" width="240" height="220" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Логическое мышление как авторегрессивный генеративный процесс синтеза объяснения фактов на базе индуцированных правил&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=17;" parent="1" vertex="1">
-          <mxGeometry x="5868" y="949.4699999999999" width="238.99" height="230" as="geometry" />
+          <mxGeometry x="5889" y="949.4699999999999" width="238.99" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Преодоление дилеммы&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;стабильность-пластичность за счёт консолидации памяти и адаптивного резонанса, в процессе которого происходит запоминание опорных фактов и индукция логических правил&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=17;" parent="1" vertex="1">
-          <mxGeometry x="5537.07" y="1228.06" width="288.99" height="250" as="geometry" />
+          <mxGeometry x="5558.07" y="1228.06" width="288.99" height="250" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Ассоциативная&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;контентно-адресуемая память на механизме трансформера, которая&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;рассматривает акт припоминания как авторегрессивный генеративный&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;процесс&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=17;" parent="1" vertex="1">
-          <mxGeometry x="5551" y="940.6800000000002" width="261.12" height="247.57" as="geometry" />
+          <mxGeometry x="5572" y="940.6800000000002" width="261.12" height="247.57" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Контрастное&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;обучение сенсорики,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;формирование векторных представлений&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1967" y="892.1400000000001" width="174" height="147.8" as="geometry" />
         </mxCell>
         <mxCell id="OI1Kdh22bxhXY1fOgk5P-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Диффузионный процесс&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;как аналог динамического программирования в задачах логического вывода и грамматического анализа&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=16;" parent="1" vertex="1">
-          <mxGeometry x="5267.67" y="1241.12" width="246.28" height="221.94" as="geometry" />
+          <mxGeometry x="5288.67" y="1241.12" width="246.28" height="221.94" as="geometry" />
         </mxCell>
         <mxCell id="O_g7NUzrfDLo47jULKJn-1" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" parent="1" source="xhr9VRiKwX6RT9ORktvZ-5" target="xhr9VRiKwX6RT9ORktvZ-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1801,7 +1801,7 @@
             <mxPoint x="6256" y="-688" as="sourcePoint" />
             <mxPoint x="6201" y="-520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="5720" y="-570" />
+              <mxPoint x="5680" y="-580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1828,53 +1828,53 @@
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-6" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-6" target="OI1Kdh22bxhXY1fOgk5P-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5374" y="807" as="sourcePoint" />
-            <mxPoint x="5582" y="809" as="targetPoint" />
+            <mxPoint x="5395" y="807" as="sourcePoint" />
+            <mxPoint x="5603" y="809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-8" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-6" target="OI1Kdh22bxhXY1fOgk5P-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5646" y="890" as="sourcePoint" />
-            <mxPoint x="5615" y="955" as="targetPoint" />
+            <mxPoint x="5667" y="890" as="sourcePoint" />
+            <mxPoint x="5636" y="955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-10" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-6" target="OI1Kdh22bxhXY1fOgk5P-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5731" y="890" as="sourcePoint" />
-            <mxPoint x="5781" y="974" as="targetPoint" />
+            <mxPoint x="5752" y="890" as="sourcePoint" />
+            <mxPoint x="5802" y="974" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-11" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-11" target="OI1Kdh22bxhXY1fOgk5P-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5792" y="890" as="sourcePoint" />
-            <mxPoint x="5751" y="964" as="targetPoint" />
+            <mxPoint x="5813" y="890" as="sourcePoint" />
+            <mxPoint x="5772" y="964" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-12" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-10" target="OI1Kdh22bxhXY1fOgk5P-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5692" y="1198" as="sourcePoint" />
-            <mxPoint x="5692" y="1238" as="targetPoint" />
+            <mxPoint x="5713" y="1198" as="sourcePoint" />
+            <mxPoint x="5713" y="1238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-13" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-9" target="OI1Kdh22bxhXY1fOgk5P-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5699" y="1198" as="sourcePoint" />
-            <mxPoint x="5699" y="1238" as="targetPoint" />
+            <mxPoint x="5720" y="1198" as="sourcePoint" />
+            <mxPoint x="5720" y="1238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-14" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-7" target="OI1Kdh22bxhXY1fOgk5P-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5684" y="1198" as="sourcePoint" />
-            <mxPoint x="5684" y="1238" as="targetPoint" />
+            <mxPoint x="5705" y="1198" as="sourcePoint" />
+            <mxPoint x="5705" y="1238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xhpBM84zoxLlbxyb2D-15" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontColor=default;curved=1;" edge="1" parent="1" source="OI1Kdh22bxhXY1fOgk5P-9" target="OI1Kdh22bxhXY1fOgk5P-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5990" y="1189" as="sourcePoint" />
-            <mxPoint x="5991" y="1253" as="targetPoint" />
+            <mxPoint x="6011" y="1189" as="sourcePoint" />
+            <mxPoint x="6012" y="1253" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="5851" y="1200" />
-              <mxPoint x="5491" y="1210" />
+              <mxPoint x="5872" y="1200" />
+              <mxPoint x="5512" y="1210" />
             </Array>
           </mxGeometry>
         </mxCell>
