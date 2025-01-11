@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3600" dy="2386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,8 +817,8 @@
             <mxPoint x="9322.85" y="505.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q5QL2jfJ1GYNZS24GLLf-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Нейроморфные архитектуры вычислений в памяти&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;" parent="1" vertex="1">
-          <mxGeometry x="7244.32" y="286.94000000000005" width="186" height="160" as="geometry" />
+        <mxCell id="Q5QL2jfJ1GYNZS24GLLf-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Нейроморфные архитектуры вычислений в памяти&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;spacing=17;" parent="1" vertex="1">
+          <mxGeometry x="7240" y="266.94" width="203.33" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Q5QL2jfJ1GYNZS24GLLf-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Рассмотрение семантической сети RDF как модели ассоциативной контентно-адресуемой памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#D6C492;fillStyle=auto;fillColor=#FCF1D9;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="6581.53" y="781.9399999999999" width="250" height="206" as="geometry" />
@@ -895,8 +895,8 @@
         <mxCell id="TTsUkmkOvjEqiHtar9jS-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Дилемма стабильность-пластичность&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3280.75" y="-1.0600000000000023" width="140" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="TTsUkmkOvjEqiHtar9jS-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Адаптивный резонанс Гроссберга как способ формирования ассоциативной памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3246" y="516.44" width="209.5" height="135" as="geometry" />
+        <mxCell id="TTsUkmkOvjEqiHtar9jS-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Адаптивный резонанс Гроссберга как способ формирования ассоциативной памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=17;" parent="1" vertex="1">
+          <mxGeometry x="3243.75" y="516.7" width="214" height="143.56" as="geometry" />
         </mxCell>
         <mxCell id="TTsUkmkOvjEqiHtar9jS-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гиппокампальный&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;повтор и консолидация&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#A4CC8D;fillStyle=auto;fillColor=#EDF5D5;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3266.75" y="344.69" width="168" height="135" as="geometry" />
@@ -1026,7 +1026,7 @@
             <mxPoint x="5129" y="-715.68" as="sourcePoint" />
             <mxPoint x="6311" y="-501.68" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7150" y="-768" />
+              <mxPoint x="7150" y="-650" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1644,7 +1644,7 @@
           <mxGeometry x="4434.57" y="1119.3399999999997" width="202" height="114.31" as="geometry" />
         </mxCell>
         <mxCell id="tn08GDANUw3K2Jy7HqKB-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Переход от глобальной градиентной оптимизации к принципу локальности и синаптической пластичности с сохранением глобальных диагностических метрик&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;spacing=15;" parent="1" vertex="1">
-          <mxGeometry x="8090" y="-540" width="330" height="160" as="geometry" />
+          <mxGeometry x="7770" y="-561.06" width="330" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tn08GDANUw3K2Jy7HqKB-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Метод максимизации энтропии&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#BF92D4;fillStyle=auto;fillColor=#F3EBF7;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="4501.43" y="737.6600000000003" width="160" height="155.5" as="geometry" />
@@ -1938,7 +1938,7 @@
             <mxPoint x="6356" y="-738" as="sourcePoint" />
             <mxPoint x="7476" y="-495" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7950" y="-780" />
+              <mxPoint x="7440" y="-710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2105,6 +2105,75 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7351" y="457" as="sourcePoint" />
             <mxPoint x="7358" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-24" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Хэббовская синаптическая пластичность&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;" vertex="1" parent="1">
+          <mxGeometry x="7750" y="-347.93000000000006" width="136" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-25" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Синаптическая пластичность, зависящая от времени спайка,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;STDP&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7520" y="-359.02" width="166" height="151.18" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-26" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Преодоление дилеммы стабильность-пластичность&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7533" y="-159.21" width="140" height="129.15" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Нормальное распределение нейронов по пластичности&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="-163.76999999999998" width="150" height="142.71" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-28" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Адаптивный резонанс Гроссберга&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="19.17000000000001" width="150" height="142.71" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-29" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Консолидация памяти&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7528" y="19.17000000000002" width="150" height="142.71" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-30" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Гиппокампальный&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;повтор&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="7518" y="209.99999999999997" width="170" height="120.91" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-31" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="tn08GDANUw3K2Jy7HqKB-1" target="G_TynrNesGH1QhPfucbs-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6762" y="-210" as="sourcePoint" />
+            <mxPoint x="6845" y="-286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-32" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="tn08GDANUw3K2Jy7HqKB-1" target="G_TynrNesGH1QhPfucbs-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7811" y="-391" as="sourcePoint" />
+            <mxPoint x="7683" y="-315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-33" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-24" target="G_TynrNesGH1QhPfucbs-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7898" y="-391" as="sourcePoint" />
+            <mxPoint x="7862" y="-329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-34" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-25" target="G_TynrNesGH1QhPfucbs-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7778" y="-225" as="sourcePoint" />
+            <mxPoint x="7671" y="-129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-35" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-26" target="G_TynrNesGH1QhPfucbs-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7777" y="-226" as="sourcePoint" />
+            <mxPoint x="7664" y="-129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-36" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-26" target="G_TynrNesGH1QhPfucbs-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7560" y="-83" as="sourcePoint" />
+            <mxPoint x="7480" y="-83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-37" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-26" target="G_TynrNesGH1QhPfucbs-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7567" y="-36" as="sourcePoint" />
+            <mxPoint x="7489" y="47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-38" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-29" target="G_TynrNesGH1QhPfucbs-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7577" y="-26" as="sourcePoint" />
+            <mxPoint x="7499" y="57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
