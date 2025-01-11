@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="4130" dy="2718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="10734" dy="6849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1644,7 +1644,7 @@
           <mxGeometry x="4434.57" y="1119.3399999999997" width="202" height="114.31" as="geometry" />
         </mxCell>
         <mxCell id="tn08GDANUw3K2Jy7HqKB-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Переход от глобальной градиентной оптимизации к принципу локальности и синаптической пластичности с сохранением глобальных диагностических метрик&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;spacing=15;" parent="1" vertex="1">
-          <mxGeometry x="7770" y="-561.06" width="330" height="160" as="geometry" />
+          <mxGeometry x="7660" y="-580" width="330" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tn08GDANUw3K2Jy7HqKB-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Метод максимизации энтропии&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#BF92D4;fillStyle=auto;fillColor=#F3EBF7;verticalAlign=middle;autosize=0;resizable=1;horizontal=1;fontColor=default;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="4501.43" y="737.6600000000003" width="160" height="155.5" as="geometry" />
@@ -2216,7 +2216,7 @@
           <mxGeometry x="7964" y="23.019999999999982" width="146" height="135" as="geometry" />
         </mxCell>
         <mxCell id="G_TynrNesGH1QhPfucbs-47" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Алгебраическое согласование&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;" vertex="1" parent="1">
-          <mxGeometry x="7825" y="166.93999999999997" width="146" height="135" as="geometry" />
+          <mxGeometry x="7825" y="196.93999999999997" width="146" height="135" as="geometry" />
         </mxCell>
         <mxCell id="G_TynrNesGH1QhPfucbs-48" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-39" target="G_TynrNesGH1QhPfucbs-47">
           <mxGeometry relative="1" as="geometry">
@@ -2243,7 +2243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G_TynrNesGH1QhPfucbs-51" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Байесовская регуляризация&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;" vertex="1" parent="1">
-          <mxGeometry x="8040" y="171.93999999999997" width="146" height="135" as="geometry" />
+          <mxGeometry x="8040" y="201.93999999999997" width="146" height="135" as="geometry" />
         </mxCell>
         <mxCell id="G_TynrNesGH1QhPfucbs-52" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-39" target="G_TynrNesGH1QhPfucbs-51">
           <mxGeometry relative="1" as="geometry">
