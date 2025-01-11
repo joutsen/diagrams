@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3600" dy="2302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3256" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhr9VRiKwX6RT9ORktvZ-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Прикладные&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;задачи&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="-736" width="172" height="94.5" as="geometry" />
+          <mxGeometry x="-1180" y="-751" width="172" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="xhr9VRiKwX6RT9ORktvZ-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Когнитивные&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;функции&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;comic=0;fillStyle=auto;strokeColor=#F099A3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;autosize=0;resizable=1;fillColor=#FFE0E3;" parent="1" vertex="1">
           <mxGeometry x="2816" y="-753.56" width="172" height="94.5" as="geometry" />
@@ -2228,6 +2228,18 @@
             <mxPoint x="2912" y="-649" as="sourcePoint" />
             <mxPoint x="2912" y="-480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z7YgFdhPqiZa6DUjiQBo-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Рой беспилотников&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#B87979;fillStyle=auto;fillColor=#F8EBE9;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="-1164" y="-290" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z7YgFdhPqiZa6DUjiQBo-21" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Полностью автономные роботы, способные к адекватной реакции в любой непредсказуемой ситуации&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#B87979;fillStyle=auto;fillColor=#F8EBE9;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="-1191" y="-497.95" width="194" height="169.02" as="geometry" />
+        </mxCell>
+        <mxCell id="z7YgFdhPqiZa6DUjiQBo-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Системы компьютерного зрения и рендеринга новго поколения, способные создавать логичные изображения по той же схеме как и художник&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#B87979;fillStyle=auto;fillColor=#F8EBE9;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="-1216" y="-110.37" width="244" height="181.3" as="geometry" />
+        </mxCell>
+        <mxCell id="z7YgFdhPqiZa6DUjiQBo-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Системы нечеткого логического мышления на фактах без галлюцинаций&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#B87979;fillStyle=auto;fillColor=#F8EBE9;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="106.59" width="192" height="164.86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
