@@ -2232,7 +2232,7 @@
             <mxPoint x="8010" y="-216" as="sourcePoint" />
             <mxPoint x="7912" y="177" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="8190" y="-100" />
+              <mxPoint x="8170" y="-100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2240,6 +2240,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7892" y="-391" as="sourcePoint" />
             <mxPoint x="7852" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-51" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Байесовская регуляризация&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;perimeterSpacing=0;strokeColor=#AFA9B5;fillStyle=auto;fillColor=#F1EEF5;verticalAlign=middle;fontColor=default;autosize=0;resizable=1;horizontal=1;arcSize=26;" vertex="1" parent="1">
+          <mxGeometry x="8040" y="171.93999999999997" width="146" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="G_TynrNesGH1QhPfucbs-52" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#696969;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;curved=1;align=center;verticalAlign=middle;fontColor=default;" edge="1" parent="1" source="G_TynrNesGH1QhPfucbs-39" target="G_TynrNesGH1QhPfucbs-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8092" y="-221" as="sourcePoint" />
+            <mxPoint x="8091" y="46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8190" y="-90" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
